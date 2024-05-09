@@ -1,7 +1,7 @@
 name: project_uas_kelompok_3
 version: 1.0.0+1
 publish_to: none
-description: A new Flutter project.
+description: Projek E-Commerce Kelomppok 3.
 environment: 
   sdk: '>=3.3.3 <4.0.0'
 
@@ -10,6 +10,8 @@ dependencies:
   get: 4.6.6
   flutter: 
     sdk: flutter
+  font_awesome_flutter: ^10.7.0
+  google_fonts: ^6.2.1
 
 dev_dependencies: 
   flutter_lints: ^3.0.0
