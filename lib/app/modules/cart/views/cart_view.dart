@@ -15,7 +15,7 @@ class CartView extends GetView<CartController> {
       ),
       body: const Center(
         child: Text(
-          'CartView is working',
+          'CartView is working .....',
           style: TextStyle(fontSize: 20),
         ),
       ),
